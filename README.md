@@ -78,7 +78,6 @@ Follow the prompts and paste your details accordingly.
 
 ✅ You're now officially a **SWARM Operator**.
 
----
 
 ## 📬 Stay Connected
 
@@ -89,5 +88,5 @@ Follow the prompts and paste your details accordingly.
 
 # 📢 TG Channal: https://t.me/ntekearning2
 # 📍 Twitter: https://x.com/Naveen36724068?s=09
-# 📬 all Social Channal: https://linktr.ee/ntekearning
+# 📬 All Social Channal: https://linktr.ee/ntekearning
 
