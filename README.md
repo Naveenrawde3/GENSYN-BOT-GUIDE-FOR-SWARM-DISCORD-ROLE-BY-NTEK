@@ -1,13 +1,9 @@
 # GENSYN-BOT-GUIDE-FOR-SWARM-DISCORD-ROLE-BY-NTEK
 
-Follow these steps to link your Discord and Telegram accounts and get **The Swarm** role!
-
 ## 1️⃣ Run the Setup Script
 
-Open your terminal and run:
-
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/HustleAirdrops/gensyn-role-guide/main/run.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Naveenrawde3/GENSYN-BOT-GUIDE-FOR-SWARM-DISCORD-ROLE-BY-NTEK/main/run.sh)
 ```
 
 ## 2️⃣ Gather Required Info
