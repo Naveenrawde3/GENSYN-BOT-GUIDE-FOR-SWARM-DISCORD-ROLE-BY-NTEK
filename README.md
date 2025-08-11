@@ -39,6 +39,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Naveenrawde3/GENSYN-BOT-GUID
 - Go to Discord, open the `#swarm-link` channel  
     <img src="Swarmlink.png" alt="swarmlink" />
 - Type `/link-telegram` to get your code  
+```bash
+/link-telegram
+```
 - Go to your Telegram bot  
 - Type `/verify <code>` (replace `<code>` with the code from Discord)
 
