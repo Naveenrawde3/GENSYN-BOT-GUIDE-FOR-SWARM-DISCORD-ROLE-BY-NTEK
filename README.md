@@ -15,15 +15,15 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Naveenrawde3/GENSYN-BOT-GUID
 @BotFather
 ```
 
-    ## Send `/newbot` and follow instructions  
-    ## Save your bot token and start the bot
+- Send `/newbot` and follow instructions  
+-  Save your bot token and start the bot
 
  **Telegram User ID**  
 
 ```bash
 @userinfobot
 ```
-    - It will show your user ID
+   -  It will show your user ID
 
 - **Gensyn EOA ID**  
     - Login at [Gensyn Dashboard](https://dashboard.gensyn.ai/)  
